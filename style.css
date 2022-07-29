@@ -7,17 +7,17 @@
 }
 
 .carousel-item img {
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
     filter: brightness(50%);
 }
 
-.carousel-item .carousel-caption h4 {
+/* .carousel-item .carousel-caption h4 {
     font-size: 2rem;
 }
 
 .carousel-item .carousel-caption p {
     font-size: 1rem;
-}
+} */
 
 .footer-icon a {
     text-decoration: none;
